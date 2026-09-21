@@ -14,7 +14,7 @@ The focus is not on building a production-grade autonomous agent. The focus is o
 
 ---
 
-## Why This Project
+## What This Project Demonstrates
 
 AI projects require coordination across:
 
